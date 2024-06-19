@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 '''A module for using the Redis NoSQL data storage.
 '''
